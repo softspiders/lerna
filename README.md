@@ -12,9 +12,9 @@ Minimalistic template for [Lerna](https://lerna.js.org/)
 
 ## Direct feature descendants
 
-- [Minimalistic Create-React-App in TypeScript based on UiLib with Storybook in Lerna](https://github.com/softspider/cra-ts-uilib-storybook-lerna)
-- [Minimalistic Create-React-App in TypeScript based on UiLib with Storybook and Storyshots in Lerna](https://github.com/softspider/cra-ts-uilib-storybook-storyshots-lerna)
-- [Minimalistic React app in TypeScript based on UiLib with Storybook in Lerna and building war by Maven](https://github.com/softspider/cra-ts-uilib-storybook-lerna-mvn-war)
+- [Minimalistic CRA in TypeScript with UiLib and Storybook in Lerna](https://github.com/softspider/cra-ts-uilib-storybook-lerna)
+- [Minimalistic CRA in TypeScript with UiLib, Storybook and Storyshots in Lerna](https://github.com/softspider/cra-ts-uilib-storybook-storyshots-lerna)
+- [Minimalistic React app in TypeScript with UiLib and Storybook in Lerna and building war by Maven](https://github.com/softspider/cra-ts-uilib-storybook-lerna-mvn-war)
 
 
 ## Lerna installation
