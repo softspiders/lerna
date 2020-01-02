@@ -50,7 +50,7 @@ Run simplest *some-command* which was previously defined in *scripts* field of *
 lerna run some-command
 ```
 
-See the result of running
+See the result:
 
 ```
 lerna notice cli v3.20.1
