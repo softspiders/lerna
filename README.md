@@ -1,4 +1,4 @@
-# lerna-
+# lerna
 
 Minimalistic template for [Lerna](https://lerna.js.org/)
 
