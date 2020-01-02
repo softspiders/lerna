@@ -1,11 +1,13 @@
 # lerna-hw
 
-Minimalistic template for Lerna monorepo
+Minimalistic template for [Lerna](https://lerna.js.org/)
 
 ## Feature tags
 
-- lerna
 - helloworld
+- lerna
+- monorepo
+- nodejs
 - template
 
 ## Direct feature descendants
