@@ -9,7 +9,6 @@ UNDER CONSTRUCTION
 - lerna
 - helloworld
 - template
-- under-construction
 
 ## Direct feature descendants
 
