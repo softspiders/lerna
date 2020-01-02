@@ -1,6 +1,6 @@
-# lerna
+# lerna-hw
 
-Minimalistic Lerna monorepo
+Minimalistic Lerna monorepo - HelloWorld
 
 UNDER CONSTRUCTION
 
@@ -18,12 +18,11 @@ UNDER CONSTRUCTION
 - [Minimalistic React app in TypeScript based on UiLib with Storybook in Lerna and building war by Maven](https://github.com/softspider/cra-ts-uilib-storybook-lerna-mvn-war)
 
 
-
-## Requirements
-
-[*Lerna*](https://lerna.js.org/) (May be not needed)
-
 ## Installation
+
+```
+npm install --global lerna
+```
 
 TBD
 
