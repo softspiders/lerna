@@ -1,6 +1,6 @@
 # lerna-hw
 
-Minimalistic Lerna monorepo - HelloWorld
+Minimalistic template for Lerna monorepo
 
 ## Feature tags
 
