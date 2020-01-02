@@ -39,12 +39,12 @@ lerna init
 
 ### Create internal repositories
 
-Under */packages* directory create arbitrary number of packages as */packages/package-1*, */packages/package-2*, each of
-them - with correspondent *package.json* description files.
+Under */packages* directory create arbitrary number of packages: */packages/package-1*, */packages/package-2*, each of
+them with correspondent *package.json* description files.
 
 ## Run
 
-Run simplest *some-command* which was previously defined in *scripts* field of *package.json*.
+Run simplest *some-command* which was previously defined in *scripts* field of *package.json* files.
 
 ```
 lerna run some-command
