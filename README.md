@@ -23,27 +23,6 @@ Minimalistic template for [Lerna](https://lerna.js.org/)
 npm install --global lerna
 ```
 
-## Repository creation
-
-At first for git, then for lerna:
-
-## Git repository creation
-
-```
-git init lerna-repo && cd lerna-repo
-```
-
-## Lerna repository creation
-
-```
-lerna init
-```
-
-### Create internal repositories
-
-Under */packages* directory create arbitrary number of packages: */packages/package-1*, */packages/package-2*, each of
-them with correspondent *package.json* description files.
-
 ## Run
 
 Run simplest *some-command* which was previously defined in *scripts* field of *package.json* files.
@@ -74,6 +53,29 @@ lerna success - package-1
 lerna success - package-2
 
 ```
+
+## How to create such repositories
+
+At first for git, then for lerna:
+
+### Git repository creation
+
+```
+git init lerna-repo && cd lerna-repo
+```
+
+### Lerna repository creation
+
+```
+lerna init
+```
+
+#### Create internal repositories
+
+Under */packages* directory create arbitrary number of packages: */packages/package-1*, */packages/package-2* and so
+on, each of them - with correspondent *package.json* description file.
+
+
 ## Authors
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin)
