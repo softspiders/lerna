@@ -56,7 +56,7 @@ lerna success - package-2
 
 ## How to create such repositories
 
-At first for git, then for lerna:
+At first a repository created for Git, then - in the same directory for - Lerna.
 
 ### Git repository creation
 
