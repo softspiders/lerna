@@ -6,7 +6,6 @@ Minimalistic template for [Lerna](https://lerna.js.org/)
 
 - helloworld
 - lerna
-- monorepo
 - nodejs
 - template
 
