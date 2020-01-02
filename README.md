@@ -1,4 +1,4 @@
-# lerna-hw
+# lerna-
 
 Minimalistic template for [Lerna](https://lerna.js.org/)
 
@@ -30,7 +30,7 @@ At first for git, then for lerna:
 ## Git repository creation
 
 ```
-git init lerna-hw && cd lerna-hw
+git init lerna-repo && cd lerna-repo
 ```
 
 ## Lerna repository creation
