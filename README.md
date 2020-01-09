@@ -1,6 +1,10 @@
+SOFTSPIDERS
+
 # lerna
 
 Minimalistic template for [Lerna](https://lerna.js.org/)
+
+---
 
 ## Feature tags
 
@@ -9,11 +13,13 @@ Minimalistic template for [Lerna](https://lerna.js.org/)
 - nodejs
 - template
 
-## Direct feature descendants
+## Direct descendants
 
 - [Minimalistic CRA in TypeScript with UiLib and Storybook in Lerna](https://github.com/softspider/cra-ts-uilib-storybook-lerna)
 - [Minimalistic CRA in TypeScript with UiLib, Storybook and Storyshots in Lerna](https://github.com/softspider/cra-ts-uilib-storybook-storyshots-lerna)
 - [Minimalistic React app in TypeScript with UiLib and Storybook in Lerna and building war by Maven](https://github.com/softspider/cra-ts-uilib-storybook-lerna-mvn-war)
+
+---
 
 
 ## Lerna installation
@@ -21,6 +27,8 @@ Minimalistic template for [Lerna](https://lerna.js.org/)
 ```
 npm install --global lerna
 ```
+
+---
 
 ## Run
 
@@ -74,10 +82,14 @@ lerna init
 Under */packages* directory create arbitrary number of packages: */packages/package-1*, */packages/package-2* and so
 on, each of them - with correspondent *package.json* description file.
 
+---
+
 
 ## Authors
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin)
+
+---
 
 ### License
 
