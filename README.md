@@ -29,7 +29,7 @@ npm install --global lerna
 ```
 ---
 
-## Install app
+## Install
 
 Being at the root, execute
 
