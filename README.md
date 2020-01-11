@@ -27,6 +27,15 @@ Minimalistic template for [Lerna](https://lerna.js.org/)
 ```
 npm install --global lerna
 ```
+---
+
+## Install app
+
+Being at the root, execute
+
+```
+lerna bootstrap
+```
 
 ---
 
