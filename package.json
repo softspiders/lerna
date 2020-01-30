@@ -6,6 +6,7 @@
   "author": "Alexander Lapygin",
   "license": "MIT",
   "scripts": {
+    "bootstrap": "lerna bootstrap",
     "some-command": "lerna run some-command"
   },
   "devDependencies": {
