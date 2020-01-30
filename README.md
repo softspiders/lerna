@@ -14,6 +14,7 @@ Minimalistic template for [Lerna](https://lerna.js.org/)
 - template
 
 ## Direct descendants
+- [React application starter with library in Lerna monorepo](https://github.com/softspiders/lerna-react-lib-starter)
 - [Minimalistic template for NextJS application with library in Lerna monorepo](https://github.com/softspiders/lerna-next-with-lib)
 - [Minimalistic CRA in TypeScript with UiLib and Storybook in Lerna](https://github.com/softspiders/cra-ts-uilib-storybook-lerna)
 - [Minimalistic CRA in TypeScript with UiLib, Storybook and Storyshots in Lerna](https://github.com/softspiders/cra-ts-uilib-storybook-storyshots-lerna)
