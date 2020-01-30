@@ -34,7 +34,7 @@ npm install --global lerna
 Being at the root, execute
 
 ```
-lerna bootstrap
+npm run bootstrap
 ```
 
 ---
@@ -44,7 +44,7 @@ lerna bootstrap
 Run simplest *some-command* which was previously defined in *scripts* field of *package.json* files.
 
 ```
-lerna run some-command
+npm run some-command
 ```
 
 See the result:
