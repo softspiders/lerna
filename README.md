@@ -2,7 +2,7 @@ SOFTSPIDERS
 
 # lerna
 
-Minimalistic template for [Lerna](https://lerna.js.org/)
+Starter for [Lerna](https://lerna.js.org/) monorepo
 
 ---
 
