@@ -1,4 +1,4 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # lerna
 
@@ -11,6 +11,7 @@ Starter for [Lerna](https://lerna.js.org/) monorepo
 - helloworld
 - lerna
 - nodejs
+- starter
 - template
 
 ## Direct descendants
