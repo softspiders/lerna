@@ -23,7 +23,11 @@ Starter for [Lerna](https://lerna.js.org/) monorepo
 - [Minimalistic JS library development environment on Lerna](https://github.com/softspiders/lerna-lib-app-starter)
 
 ---
+## Authors
 
+[Alexander Lapygin](https://github.com/AlexanderLapygin)
+
+---
 
 ## Lerna installation
 
@@ -72,35 +76,6 @@ lerna success - package-1
 lerna success - package-2
 
 ```
-
-## How to create such repositories
-
-At first a repository created for Git, then - in the same directory for - Lerna.
-
-### Git repository creation
-
-```
-git init lerna-repo && cd lerna-repo
-```
-
-### Lerna repository creation
-
-```
-lerna init
-```
-
-#### Create internal repositories
-
-Under */packages* directory create arbitrary number of packages: */packages/package-1*, */packages/package-2* and so
-on, each of them - with correspondent *package.json* description file.
-
----
-
-
-## Authors
-
-[Alexander Lapygin](https://github.com/AlexanderLapygin)
-
 ---
 
 ### License
