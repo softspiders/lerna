@@ -8,9 +8,7 @@ Starter for [Lerna](https://lerna.js.org/) monorepo
 
 ## Feature tags
 
-- helloworld
 - lerna
-- nodejs
 - starter
 - template
 
