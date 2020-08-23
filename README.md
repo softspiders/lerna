@@ -12,13 +12,14 @@ Starter for [Lerna](https://lerna.js.org/) monorepo
 - starter
 - template
 
-## Direct descendants
+## Children
 - [React application starter with library in Lerna monorepo](https://github.com/softspiders/lerna-react-lib-starter)
 - [Minimalistic template for NextJS application with library in Lerna monorepo](https://github.com/softspiders/lerna-next-with-lib)
 - [Minimalistic CRA in TypeScript with UiLib and Storybook in Lerna](https://github.com/softspiders/cra-ts-uilib-storybook-lerna)
 - [Minimalistic CRA in TypeScript with UiLib, Storybook and Storyshots in Lerna](https://github.com/softspiders/cra-ts-uilib-storybook-storyshots-lerna)
 - [Minimalistic React app in TypeScript with UiLib and Storybook in Lerna and building war by Maven](https://github.com/softspiders/cra-ts-uilib-storybook-lerna-mvn-war)
 - [Minimalistic JS library development environment on Lerna](https://github.com/softspiders/lerna-lib-app-starter)
+- [+ ***releasing*** lerna-releasing-starter](https://github.com/softspiders/lerna-releasing-starter)
 
 ---
 ## Authors
